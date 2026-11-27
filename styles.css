@@ -92,6 +92,14 @@ nav {
 	text-decoration: none;
 }
 
+.wordmark-logo {
+	display: inline-block;
+	width: 24px;
+	height: 24px;
+	margin-right: 8px;
+	vertical-align: -6px;
+}
+
 .nav-contact {
 	font-size: 13.5px;
 }
